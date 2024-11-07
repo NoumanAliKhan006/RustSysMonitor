@@ -29,22 +29,22 @@ Installation
 
     Clone the repository:
 
-''' git clone https://github.com/yourusername/RustSysMonitor.git '''
+``` git clone https://github.com/yourusername/RustSysMonitor.git ```
 cd RustSysMonitor
 
 Build the project:
 
-cargo build --release
+```cargo build --release```
 
 Run the executable:
 
-    ./target/release/RustSysMonitor
+    ```./target/release/RustSysMonitor```
 
 Usage
 
 The tool will automatically start monitoring and displaying system metrics every second. All data is logged to system_monitor_log.txt in the project directory.
 Example Output
-
+```
 ================ System Performance Metrics ================
 CPU Usage        : 15.2%
 Used Memory      : 123456 KB
@@ -54,6 +54,7 @@ Disk Usage       :
 Network Usage    :
   eth0 - Sent: 20480 bytes, Received: 40960 bytes
 ============================================================
+```
 
 Configuration
 
