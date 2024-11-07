@@ -3,11 +3,11 @@
 
 # Features
 
-    CPU Usage Monitoring: Provides real-time CPU utilization.
-    Memory Tracking: Displays used and available memory.
-    Disk Usage: Monitors disk space usage for each partition.
-    Network Traffic Analysis: Tracks sent and received bytes across network interfaces.
-    Logging: Logs all monitored data with timestamps to system_monitor_log.txt for historical analysis.
+    **CPU Usage Monitoring:** Provides real-time CPU utilization.
+    **Memory Tracking:** Displays used and available memory.
+    **Disk Usage:** Monitors disk space usage for each partition.
+    **Network Traffic Analysis:** Tracks sent and received bytes across network interfaces.
+    **Logging:** Logs all monitored data with timestamps to system_monitor_log.txt for historical analysis.
 
 # Table of Contents
 
@@ -27,21 +27,21 @@ Prerequisites
 
 Installation
 
-Clone the repository:
+- Clone the repository:
 
     git clone https://github.com/yourusername/RustSysMonitor.git
 
     cd RustSysMonitor
 
-Build the project:
+- Build the project:
 
     cargo build --release
 
-Run the executable:
+- Run the executable:
 
     ./target/release/RustSysMonitor
 
-Usage
+# Usage
 
 The tool will automatically start monitoring and displaying system metrics every second. All data is logged to system_monitor_log.txt in the project directory.
 Example Output
@@ -57,13 +57,13 @@ Network Usage    :
 ============================================================
 ```
 
-Configuration
+# Configuration
 
 You can modify the refresh interval by adjusting the refresh_interval variable in main.rs:
 
 let refresh_interval = time::Duration::from_secs(1); // Set to preferred interval
 
-Dependencies
+# Dependencies
 
 RustSysMonitor relies on the following crates:
 
