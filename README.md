@@ -39,11 +39,11 @@ To get started with RustSysMonitor, follow the instructions below to set up and 
   
       cd RustSysMonitor
 ```
-1. Build the project:
+2. Build the project:
 ```
       cargo build --release
 ```
-1. Run the executable:
+3. Run the executable:
 ```
       ./target/release/RustSysMonitor
 ```
