@@ -2,7 +2,7 @@
 **RustSysMonitor** is a real-time system performance monitoring tool written in Rust. It provides an overview of system metrics, including CPU usage, memory usage, disk space, and network traffic. Designed for efficiency, RustSysMonitor outputs formatted data to both the console and a log file, making it ideal for continuous performance tracking.
 
 # Features
-```
+
    **CPU Usage Monitoring:** Provides real-time CPU utilization.
    
    **Memory Tracking:** Displays used and available memory.
@@ -12,7 +12,7 @@
    **Network Traffic Analysis:** Tracks sent and received bytes across network interfaces.
    
    **Logging:** Logs all monitored data with timestamps to system_monitor_log.txt for historical analysis.
-  ``` 
+   
 
 # Table of Contents
 
