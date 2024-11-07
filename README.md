@@ -27,9 +27,10 @@ Prerequisites
 
 Installation
 
-    Clone the repository:
+Clone the repository:
 
 ``` git clone https://github.com/yourusername/RustSysMonitor.git ```
+
 cd RustSysMonitor
 
 Build the project:
