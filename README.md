@@ -31,7 +31,7 @@ Clone the repository:
 
     git clone https://github.com/yourusername/RustSysMonitor.git
 
-cd RustSysMonitor
+    cd RustSysMonitor
 
 Build the project:
 
