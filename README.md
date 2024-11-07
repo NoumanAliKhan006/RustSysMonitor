@@ -29,17 +29,17 @@ Installation
 
 Clone the repository:
 
-`git clone https://github.com/yourusername/RustSysMonitor.git `
+    git clone https://github.com/yourusername/RustSysMonitor.git
 
 cd RustSysMonitor
 
 Build the project:
 
-```cargo build --release```
+    cargo build --release
 
 Run the executable:
 
-    ```./target/release/RustSysMonitor```
+    ./target/release/RustSysMonitor
 
 Usage
 
