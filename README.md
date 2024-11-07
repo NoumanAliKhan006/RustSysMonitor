@@ -25,24 +25,25 @@
 # Getting Started
 
 To get started with RustSysMonitor, follow the instructions below to set up and run the tool.
-Prerequisites
+
+## Prerequisites
 
    - Rust (version 1.53+)
    - Cargo
 
-Installation
+## Installation
 
-- Clone the repository:
+1 Clone the repository:
 
     git clone https://github.com/yourusername/RustSysMonitor.git
 
     cd RustSysMonitor
 
-- Build the project:
+1 Build the project:
 
     cargo build --release
 
-- Run the executable:
+1 Run the executable:
 
     ./target/release/RustSysMonitor
 
