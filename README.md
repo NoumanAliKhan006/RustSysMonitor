@@ -35,17 +35,17 @@ To get started with RustSysMonitor, follow the instructions below to set up and 
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/RustSysMonitor.git
-
-    cd RustSysMonitor
+      git clone https://github.com/yourusername/RustSysMonitor.git
+  
+      cd RustSysMonitor
 
 1. Build the project:
 
-    cargo build --release
+      cargo build --release
 
 1. Run the executable:
 
-    ./target/release/RustSysMonitor
+      ./target/release/RustSysMonitor
 
 # Usage
 
