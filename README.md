@@ -78,4 +78,4 @@ RustSysMonitor relies on the following crates:
 
 Install dependencies with Cargo:
 
-cargo build
+    cargo build
