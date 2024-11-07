@@ -3,11 +3,11 @@
 
 # Features
 
-    **CPU Usage Monitoring:** Provides real-time CPU utilization.
-    **Memory Tracking:** Displays used and available memory.
-    **Disk Usage:** Monitors disk space usage for each partition.
-    **Network Traffic Analysis:** Tracks sent and received bytes across network interfaces.
-    **Logging:** Logs all monitored data with timestamps to system_monitor_log.txt for historical analysis.
+   **CPU Usage Monitoring:** Provides real-time CPU utilization.
+   **Memory Tracking:** Displays used and available memory.
+   **Disk Usage:** Monitors disk space usage for each partition.
+   **Network Traffic Analysis:** Tracks sent and received bytes across network interfaces.
+   **Logging:** Logs all monitored data with timestamps to system_monitor_log.txt for historical analysis.
 
 # Table of Contents
 
