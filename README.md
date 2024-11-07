@@ -29,7 +29,7 @@ Installation
 
 Clone the repository:
 
-``` git clone https://github.com/yourusername/RustSysMonitor.git ```
+`git clone https://github.com/yourusername/RustSysMonitor.git `
 
 cd RustSysMonitor
 
